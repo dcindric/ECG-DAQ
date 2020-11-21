@@ -19,7 +19,7 @@ Digital section is based on STM32F407 MCU and it's used for acquiring signals fr
 
 </p>
 
-
+![Screenshot](ECG.png)
 
 
 ## Usage
