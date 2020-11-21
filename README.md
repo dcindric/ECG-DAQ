@@ -33,7 +33,7 @@ Project files, including schematic and PCB documents, need to be opened with Alt
 ## Contributing
 I'm currenlty writing firmware for the made PCB. It is very likely that there will be several versions of this project, so for any major or minor changes you would like to implement yourself, please open an issue so we can discuss about it or alternatively send me an email: dino.cindric@fer.hr.
 
-Thanks you.
+Thank you.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) Copyright (c) 2020, Dino Cindrić - All rights reserved.
