@@ -6,6 +6,9 @@ ECG-DAQ is the data acquisition system for electrocardiogram signals. This proje
 
 PCB is logically/phisically divided into two parts - precision analog section where input signals, coming from the electrodes (left and right arm, right leg), are conditioned and digital section used for signal processing and data transmission. 
 
+![Screenshot](ECG.png)
+
+
 Input signal conditioning includes:
 * RFI/EMI differential filtering
 * First gain stage using instrumentation amplifier INA818
@@ -19,7 +22,6 @@ Digital section is based on STM32F407 MCU and it's used for acquiring signals fr
 
 </p>
 
-![Screenshot](ECG.png)
 
 
 ## Usage
